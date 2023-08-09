@@ -19,4 +19,4 @@ Requirements
 
 Installation
 ============
-Install-Module Mtf.K8sShell
+Install-Module K8sShell
